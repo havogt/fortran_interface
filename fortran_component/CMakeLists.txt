@@ -1,0 +1,1 @@
+add_library(my_fortran_component my_fortran_component.f90)
